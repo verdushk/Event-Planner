@@ -1,4 +1,4 @@
-Party Planner App Design Project - README Template
+Party Planner App Design Project
 ===
 
 # Event Planner
@@ -14,7 +14,6 @@ Party Planner App Design Project - README Template
 This app will allow users to invite other users to events and also allow users to plan out aspects of the event. It will also allow people to claim tasks in preparation of the event.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Organization
 - **Mobile:** Mobile First
 - **Story:** Allows users to plan events in an organized fashion.
